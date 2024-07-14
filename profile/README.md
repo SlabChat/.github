@@ -14,4 +14,4 @@ Public repositories that are under this organization.
 | Repository                                       | Description             | Maintainer(s)                            | State |
 |--------------------------------------------------|-------------------------|------------------------------------------|-------|
 | [Frontend](https://github.com/slabchat/frontend) | React frontend for Slab | [@andriemc](https://github.com/andriemc) | 🚥     |
-| [Backend](https://github.com/slabchat/backend)   | Go backend for Slab     | [@andriemc](https://github.com/andriemc) | 🚥     |
+| [Backend](https://github.com/slabchat/backend)   | Fastify backend for Slab     | [@andriemc](https://github.com/andriemc) | 🚥     |
